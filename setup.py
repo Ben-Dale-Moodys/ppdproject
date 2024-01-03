@@ -4,10 +4,10 @@
 import codecs
 import os
 
-from udemy import __title__
-from udemy import __version__
-from udemy import __author__
-from udemy import __email__
+from ppdprojects import __title__
+from ppdprojects import __version__
+from ppdprojects import __author__
+from ppdprojects import __email__
 
 # from distutils.core import setup
 from setuptools import setup, find_packages
